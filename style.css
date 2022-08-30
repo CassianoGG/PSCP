@@ -2,7 +2,7 @@ body
 {
   text-align: center;
   color: white;
-  background: #000000;
+  background: #6fbbd3;
 }
 
 p
@@ -14,6 +14,11 @@ p
 
 strong
 {
-  color: darkred;
+  color: gold;
   font-size: 23px
+} 
+
+em
+{
+  font-size:20px
 }
