@@ -1,0 +1,19 @@
+body
+{
+  text-align: center;
+  color: white;
+  background: #000000;
+}
+
+p
+{
+  color: white;
+  text-aling: left;
+  font-size:18px
+}
+
+strong
+{
+  color: darkred;
+  font-size: 23px
+}
